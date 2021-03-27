@@ -10,6 +10,7 @@ The problem seems to be quite complex, and that is truth as well. This project s
 6. The model predicted the value of steering angle in radians so later it was converted back to degrees.
 
 ## Loss function
+Loss function used is general: mse_loss + (l2_norm_constant * l2_norm_of_weights_and_biases)
 
 ## Sample Video
  ![alt text][gif]
