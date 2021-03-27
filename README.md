@@ -17,5 +17,5 @@ The problem seems to be quite complex, and that is truth as well. This project s
  [gif]: https://github.com/pankajrajput0312/self_driving_car/blob/master/demo_gif.gif "GIF"
 
 
-*The visualization is strictly on Test Data
+*The visualization is strictly on Test Data*
  
